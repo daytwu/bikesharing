@@ -15,7 +15,7 @@ The above image shows the starting locations of all the bike stations in our dat
 <img width="742" alt="Checkout time by Users" src="https://user-images.githubusercontent.com/68725398/105098246-c9e88900-5a77-11eb-9bc2-062e907f252c.png">
 <img width="757" alt="Checkout time by Gender" src="https://user-images.githubusercontent.com/68725398/105098268-d0770080-5a77-11eb-9ad8-0368ec8d4c92.png">
 
-The above image is a deeper look into the ride durations for the Users as a whole and users split by genders. This shows that Males uers tends to have a longer ride duration compared to Females or the unknown genders, with 5 hours peaking for Males and total users.
+The above images is a deeper look into the ride durations for the Users as a whole and users split by genders. This shows that Males uers tends to have a longer ride duration compared to Females or the unknown genders, with 5 hours peaking for Males and total users. The "Checkout time by Users" visualization seems almost equal to the male users one on the gender split, this is most likely due to how dense the male user datas are within the dataset, which somewhat skewers the result to show a similar trend.
 
 <img width="748" alt="August Peak Hours" src="https://user-images.githubusercontent.com/68725398/105099308-78d99480-5a79-11eb-87c5-9b2cffb8c9d1.png">
 
