@@ -2,10 +2,12 @@
 
 [Link to my story](https://public.tableau.com/profile/dayton.wu#!/vizhome/Challenge_16110860922250/BikeTripAnalysis?publish=yes)
 
-Overview of the statistical analysis:
+## Overview of the statistical analysis:
+
 The purpose of this analysis is to see if there can be any insights found on one cities bike sharing program (NYC CitiBikes) so that light can be shed on investment decisions for another city. This is done by analyzing the user datas for this program for a particular month of the year to see if any trends can be found.
 
-Results:
+## Results:
+
 <img width="404" alt="Top Starting Location" src="https://user-images.githubusercontent.com/68725398/105097761-27300a80-5a77-11eb-8848-0eb85d788c8c.png">
 
 1st Analysis: The above image shows the starting locations of all the bike stations in our data. This is mapped with the stations longtitude and lattitude and then colored/enlarged by the size count of the rides itself. The image itself is Manhattan in NYC, this shows that dense metropolitan areas are a good start to look into when it comes to the initial steps of investment funding for bike stations for another dense metropolitan area.
@@ -26,10 +28,19 @@ This image showcases all the available Bike IDs within our data and displayed in
 <img width="751" alt="Trips by Weekdays" src="https://user-images.githubusercontent.com/68725398/105099973-8fccb680-5a7a-11eb-9366-452e25f09df2.png">
 <img width="750" alt="Trips by Genders" src="https://user-images.githubusercontent.com/68725398/105099979-91967a00-5a7a-11eb-86f0-82580dcb9754.png">
 
-These images showcases which days of the week has more ride usages. This is another way to look at the peak hours, with the data being set into a heatmap format. 
+These images showcases which days and hours of the week has more ride usages with one image by total users and another split by genders. This is another way to look at the peak hours, with the data being set into a heatmap format. 
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
+A distinct story that the above "Trips by Weekdays" image shows that the peak hours doesn't show is that there are differences in popular hours when it comes to weekdays and weekends. Both Saturday and Sundays have a decent amount of usages spread out from 9AM till 7PM compared to the weekdays which had less usages during the non-peak hours of 10AM to 3PM (with Thurs and Fri showing a bit more increase compared to Mon - Wed). This could attribute to users generally needing whatever transportation that they can get a hold of to go from and to work or school during the weekdays compared to a more lax environment riding for pleasure in the weekends.
+
+According to the by gender image, male users are still more common compared to female users. These images also reinforces the above that there are peak hours in both the morning and evening.
+
+
+<img width="761" alt="Trips by Weekdays by Genders" src="https://user-images.githubusercontent.com/68725398/105102743-45006e00-5a7d-11eb-8950-e438e00224b1.png">
+
+The last image showcases the trips by Gender and Weekdays, split across the user types in the dataset. This gives a very insightful look into what categories of users would most likely yield profit from subscribing to the service instead of being just a customer (most likely a pay per ride customer). According to the image, male users heavily subscribe to the service instead of being a pay per ride customer, with it seeminly double to triple the amount of females during the weekdays. 
+
+The other observation is that unknown gender users probably do pay per ride, preferring without the hassle to have a profile through the subscription services and setting up an account that way. Unknown gender users that subscribe are little to none compared to the ones that are just a regular customer.
+
+## Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
