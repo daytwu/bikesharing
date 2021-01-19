@@ -10,12 +10,12 @@ The purpose of this analysis is to see if there can be any insights found on one
 
 <img width="404" alt="Top Starting Location" src="https://user-images.githubusercontent.com/68725398/105097761-27300a80-5a77-11eb-8848-0eb85d788c8c.png">
 
-1st Analysis: The above image shows the starting locations of all the bike stations in our data. This is mapped with the stations longtitude and lattitude and then colored/enlarged by the size count of the rides itself. The image itself is Manhattan in NYC, this shows that dense metropolitan areas are a good start to look into when it comes to the initial steps of investment funding for bike stations for another dense metropolitan area.
+The above image shows the starting locations of all the bike stations in our data. This is mapped with the stations longtitude and lattitude and then colored/enlarged by the size count of the rides itself. The image itself is Manhattan in NYC, this shows that dense metropolitan areas are a good start to look into when it comes to the initial steps of investment funding for bike stations for another dense metropolitan area.
 
 <img width="742" alt="Checkout time by Users" src="https://user-images.githubusercontent.com/68725398/105098246-c9e88900-5a77-11eb-9bc2-062e907f252c.png">
 <img width="757" alt="Checkout time by Gender" src="https://user-images.githubusercontent.com/68725398/105098268-d0770080-5a77-11eb-9ad8-0368ec8d4c92.png">
 
-The above analysis is a deeper look into the ride durations for the Users as a whole and users split by genders. This shows that Males uers tends to have a longer ride duration compared to Females or the unknown genders, with 5 hours peaking for Males and total users.
+The above image is a deeper look into the ride durations for the Users as a whole and users split by genders. This shows that Males uers tends to have a longer ride duration compared to Females or the unknown genders, with 5 hours peaking for Males and total users.
 
 <img width="748" alt="August Peak Hours" src="https://user-images.githubusercontent.com/68725398/105099308-78d99480-5a79-11eb-87c5-9b2cffb8c9d1.png">
 
@@ -43,4 +43,9 @@ The other observation is that unknown gender users probably do pay per ride, pre
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+According to the data images, male users seems to heavily favor subscribing compared to pay-per-ride and weekdays seems to be more popular compared to weekends with the hours peakng from 7AM to 9AM and 4PM to 7PM. These looks like prime data to go start development in, starting with having bike stations in the most dense areas of a city. 
+
+The data, however, is lacking in terms of any of the financial aspects that an investor will probably want to look into. With this amount of data when it comes to looking at peak hours, it is equally important to see the price per ride and price per subscription of the services itself to correctly determine if profits can be made or for the business to be sustainable. Des Moines might not have the same level of density compared to NYC, which will inevitably affect a lot of the data here if this bikeshare program starts up in that city. 
+
+With that said, one additional visualizations that can be made would be the pricing amount from rides for regular customers compared to the pricing on the subscriptions for the users, to see which category is more popular. Another visualization would be an analysis on the total prices during the peak hours of a week compared to non-peak hours, this would most definitely yield meaningful results for investments when it comes to comparing costs vs revenues for this programs services.
+
