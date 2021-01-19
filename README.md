@@ -8,7 +8,7 @@ The purpose of this analysis is to see if there can be any insights found on one
 
 ## Results:
 
-<img width="404" alt="Top Starting Location" src="https://user-images.githubusercontent.com/68725398/105097761-27300a80-5a77-11eb-8848-0eb85d788c8c.png">
+<img width="736" alt="Top Starting Location" src="https://user-images.githubusercontent.com/68725398/105105066-5e0b1e00-5a81-11eb-86c1-09c6100f6a49.png">
 
 The above image shows the starting locations of all the bike stations in our data. This is mapped with the stations longtitude and lattitude and then colored/enlarged by the size count of the rides itself. The image itself is Manhattan in NYC, this shows that dense metropolitan areas are a good start to look into when it comes to the initial steps of investment funding for bike stations for another dense metropolitan area.
 
